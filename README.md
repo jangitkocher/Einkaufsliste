@@ -4,7 +4,9 @@ einkaufen
 Lebenslauf
 
 MAX MUSTER
+
 Persönliche Daten Name Max Muster
+
 Anschrift Musterstraße 1 12345 Musterstadt
 Tel. 0123 / 456 789
 E-Mail email@domain.de
