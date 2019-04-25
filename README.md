@@ -35,5 +35,7 @@ Führerschein
 
 Klasse B
 
-![alt text][logo] /Users/jan_kocher/Desktop/scrshot/Bildschirmfoto 2019-04-24 um 11.26.01.png
+
+![Alternativtext](/Users/jan_kocher/Desktop/scrshot/Bildschirmfoto 2019-04-24 um 11.26.01.png
+ "titel")
 
